@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Android Project</string>
+    <string name="roll">Roll dice</string>
+    <string name="result">Results</string>
+</resources>
